@@ -32,6 +32,7 @@ header {
     margin:.5rem;
 }
 .container {
+    user-select: none;
     top: 25vh;
     position:relative;
     z-index: 1;
