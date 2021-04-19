@@ -16,9 +16,9 @@ const canvas = document.querySelector('canvas.webgl');
 
 // Loaders
 const textureLoader = new THREE.TextureLoader();
-const texture = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/texture.png');
-const displacement = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/displacement.png');
-const alpha = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/alpha.png');
+const texture = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/docs/texture.png');
+const displacement = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/docs/displacement.png');
+const alpha = textureLoader.load('https://raw.githubusercontent.com/daltonjmcgee/2021-4-15/gh-pages/docs/alpha.png');
 
 // Scene
 const scene = new THREE.Scene();
