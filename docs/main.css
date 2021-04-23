@@ -70,4 +70,11 @@ header {
     font-variant: small-caps;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    margin: .5em;
+  }
+  
+
 /*# sourceMappingURL=main.css.map*/
