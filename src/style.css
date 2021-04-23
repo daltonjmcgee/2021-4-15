@@ -70,3 +70,10 @@ header {
     opacity: .75;
     font-variant: small-caps;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin: .5em;
+  }
+  
